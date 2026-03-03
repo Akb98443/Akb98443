@@ -30,5 +30,6 @@ I'm a software engineer who enjoys solving problems across the stack — from de
 
 - Tools & Others:
   - Git • Docker • Unit & Integration Testing • CI/CD
-
+- AI
+    - LLM integration, Generative AI, Agentic AI
 ---
